@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/julienschmidt/httprouter"
-	"github.com/ronaudinho/gbr/internal/transport"
 	"github.com/ronaudinho/gbr/pkg/afe"
+	"github.com/ronaudinho/gbr/pkg/transport"
 	"github.com/spf13/afero"
 )
 
